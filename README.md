@@ -1,1 +1,1 @@
-# yolov7-crack-detector
+# crack_detection_and_segmentation
