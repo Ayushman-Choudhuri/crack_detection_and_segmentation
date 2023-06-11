@@ -1,10 +1,10 @@
 # crack_detection_and_segmentation
 
-#### Introduction 
+### Introduction 
 
-#### Dataset
+### Dataset
 
-#### References
+### References
 
 * [1] https://github.com/facebookresearch/detectron2
 * [2] https://universe.roboflow.com/university-bswxt/crack-bphdr
